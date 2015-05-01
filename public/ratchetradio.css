@@ -1,0 +1,14 @@
+body {
+	background-color: #000000;
+}
+
+header {
+	color: #FF0000;
+}
+
+p {
+	background-color:#FF0000;
+	color: #000000;
+	font-family: 'Rockwell Extra Bold', 'Rockwell Bold', monospace;
+	font-size: 20px;
+}
