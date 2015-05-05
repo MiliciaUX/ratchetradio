@@ -21,7 +21,7 @@ GEM
     json (1.8.2)
     minitest (5.6.1)
     rack (1.6.0)
-    rack-flash (0.1.2)
+    rack-flash3 (1.0.5)
       rack
     rack-protection (1.5.3)
       rack
@@ -45,7 +45,7 @@ PLATFORMS
 DEPENDENCIES
   activerecord
   geocoder
-  rack-flash
+  rack-flash3
   rake
   sinatra-activerecord
   sqlite3
